@@ -10,7 +10,10 @@
 --
 
 ## 再生リストidとは  
-![ss]([https://drive.google.com/file/d/1rexofOJKbA4ck3JJzP5V-x7qjpjg7cyy/view?usp=share_link](https://www.gigafree.net/internet/onlinestorage/googledrive.png))
+![readme-image](https://github.com/tachibana-824/cook-memo/blob/main/read-me.png)
+
+--
+
 画像のように動画のURLの list= の後に記載されています。  
 
 --
